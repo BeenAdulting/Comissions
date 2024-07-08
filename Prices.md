@@ -4,11 +4,6 @@
 
 # Dm @Unstable.Solutions for more info or join discord.gg/NhxTbaqnMS and ping @unstable.solutions
 
-# Selling 
-
-* Underground AA 20$
-* invisible desync for 30$
-
 # Sources For Sale
 
-* Twisted | Personal streamable [Table Features Here](https://github.com/BeenAdulting/Twisted/blob/main/Twisted.lua) 30$
+* Twisted | Personal streamable [Features Listed Here](https://github.com/BeenAdulting/Twisted/blob/main/Twisted.lua) 30$
