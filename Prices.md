@@ -6,4 +6,4 @@
 
 # Sources For Sale
 
-* Twisted | Personal streamable [Features Listed Here](https://github.com/BeenAdulting/Twisted/blob/main/Twisted.lua) 30$
+* Twisted | Personal streamable [Features Listed Here](https://github.com/BeenAdulting/Twisted/blob/main/Twisted.lua) 30$ --// i have not listed them yet
